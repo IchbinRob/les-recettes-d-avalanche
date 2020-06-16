@@ -2,7 +2,7 @@
 
 ## Docs
 ### Used plugin
-* [Shapes](https://acegikmo.com/shapes) : Vector Graphics Librairy
+* [Shapes](https://acegikmo.com/shapes) : Vector Graphics Library
     > Limited compatibility with URP
 * [Lasp](https://github.com/keijiro/Lasp) : Audio Low Latency Input
     > Not working with .NET 4.0 [Issue](https://github.com/keijiro/Lasp/issues/28)
