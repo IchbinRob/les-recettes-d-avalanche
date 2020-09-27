@@ -1,3 +1,6 @@
 [submodule "Packages/Shapes"]
 	path = Packages/Shapes
 	url = git@github.com:acegikmo/Shapes.git
+[submodule "Assets/Shapes/Shapes"]
+	path = Assets/Shapes/Shapes
+	url = git@github.com:acegikmo/Shapes.git
